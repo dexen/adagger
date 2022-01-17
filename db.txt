@@ -1,0 +1,14 @@
+Textual representation.
+Binary representation.
+It is data.
+It is code.
+Throughput.
+Latency.
+Memory.
+CPU.
+Compose.
+Split up.
+Cache.
+Flush.
+Parallelize.
+Serialize.
