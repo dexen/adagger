@@ -16,3 +16,5 @@ Bottom-up.
 Top-down.
 Focus on the edges.
 Focus on the nodes.
+Style.
+Substance.
