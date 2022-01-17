@@ -12,3 +12,7 @@ Cache.
 Flush.
 Parallelize.
 Serialize.
+Bottom-up.
+Top-down.
+Focus on the edges.
+Focus on the nodes.
