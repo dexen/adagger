@@ -18,3 +18,5 @@ Focus on the edges.
 Focus on the nodes.
 Style.
 Substance.
+Special case.
+Exception.
