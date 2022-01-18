@@ -20,3 +20,11 @@ Style.
 Substance.
 Special case.
 Exception.
+L10n.
+I18n.
+Special case.
+Generalization.
+Eliminate an element of process.
+Make it part of a process.
+Flatten a tree into a list.
+Rotate a list into a tree.
