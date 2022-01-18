@@ -1,9 +1,9 @@
 Textual representation.
-Binary representation.
+Binary encoding.
 It is data.
 It is code.
-Throughput.
-Latency.
+Consider the throughput.
+Consider the latency.
 Memory.
 CPU.
 Compose.
