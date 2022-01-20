@@ -32,3 +32,5 @@ Documented requirement.
 Implicit requirement.
 Estimate the amount.
 Measure the amount.
+Compute.
+Don't compute.
