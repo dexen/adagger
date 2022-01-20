@@ -30,3 +30,5 @@ Flatten a tree into a list.
 Rotate a list into a tree.
 Documented requirement.
 Implicit requirement.
+Estimate the amount.
+Measure the amount.
